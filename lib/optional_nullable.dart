@@ -3,6 +3,4 @@
 /// More dartdocs go here.
 library optional_nullable;
 
-export 'src/optional_nullable_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/optional_nullable.dart' show OptionalNullable;
